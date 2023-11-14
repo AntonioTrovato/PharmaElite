@@ -1,2 +1,2 @@
 # PharmaElite
-Un ecommerce per farmacie.
+Pharmacy e-commerce.
